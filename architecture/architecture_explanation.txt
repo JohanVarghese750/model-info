@@ -28,4 +28,4 @@ Adding multiple html pages to webapps:
 There are multiple solutions available on linking more than one web page to the google appscript and the solution adopted in the project was to check if a spricific page was requested if not, then the home page was served, else the requested page
   
  
-  
+A pod was also placed to appear when clicking on the footer.  
